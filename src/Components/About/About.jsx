@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import pic_user from '../../assets/pic-2.png'
-import profile_img from '../../assets/about_profile.svg'
+
 
 
 const About = () => {
@@ -30,6 +30,8 @@ const About = () => {
                 <div>
                 <h2>Language</h2>  
                 <p>C,C++</p>
+                <h2>Technology</h2>  
+                <p>MondoDB,SQL,Git&GitHub,MaterialUI</p>
                 </div>
                 
             </div>

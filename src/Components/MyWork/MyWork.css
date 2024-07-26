@@ -17,6 +17,9 @@
     transition: 0.3s;
     cursor: pointer;
 }
+.mywork-container p{
+    padding: 20px;
+}
 
 .mywork-container img:hover{
     transform: scale(1.10);
@@ -44,6 +47,27 @@
     gap: 30px;
     transition: 0.6s;
 }
+.git-btn {
+    background-color: #333; 
+    color: #fff; 
+    border: 2px solid #fff;
+    padding: 10px 15px; 
+    font-size: 14px;
+    font-weight: 6500; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    margin-top: 5px;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s; 
+}
+
+.git-btn:hover {
+    background-color: #ebc2eb;
+    color: #0e0e0e; 
+    transform: scale(1.05); 
+}
+
+
+
 @media(max-width:768px){
     .mywork{
         gap: 50px;

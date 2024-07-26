@@ -84,4 +84,90 @@
         border-radius: 40px;
         font-size: 14px;
     }
+} 
+
+.hero-resume .resume-button {
+  background-color:transparent;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  outline: none;
 }
+
+/* .hero-resume .resume-button:hover {
+  background-color: #da5635;
+} */
+
+
+/* 
+.hero-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    height: 100vh;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .hero-content {
+    max-width: 50%;
+  }
+  
+  .hero-image img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .hero-content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content p {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+  }
+  
+  .hero-button {
+    font-size: 1em;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero-button:hover {
+    background-color: #555;
+  }
+  
+  @media (max-width: 768px) {
+    .hero-container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .hero-content, .hero-image {
+      max-width: 100%;
+    }
+  
+    .hero-content h1 {
+      font-size: 2em;
+    }
+  
+    .hero-content p {
+      font-size: 1.2em;
+    }
+  
+    .hero-button {
+      font-size: 0.9em;
+      padding: 8px 16px;
+    }
+  }
+   */
