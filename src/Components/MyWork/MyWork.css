@@ -51,15 +51,19 @@
     background-color: #333; 
     color: #fff; 
     border: 2px solid #fff;
-    padding: 10px 15px; 
+    padding: 7px 10px; 
     font-size: 14px;
     font-weight: 6500; 
     border-radius: 5px; 
     cursor: pointer; 
     margin-top: 5px;
+
     transition: background-color 0.3s, color 0.3s, transform 0.3s; 
 }
 
+.depo{
+    margin-left: 10px;
+}
 .git-btn:hover {
     background-color: #ebc2eb;
     color: #0e0e0e; 
